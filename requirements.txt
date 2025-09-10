@@ -6,5 +6,6 @@ pandas == 2.2.3
 numpy == 2.2.3
 lightgbm == 4.6.0
 py3Dmol == 2.5.2
-shap == 0.44.1
-catboost == 1.2.6
+shap == 0.48.0
+catboost == 1.2.8
+
